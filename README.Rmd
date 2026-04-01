@@ -4,8 +4,19 @@ output: html_document
 ---
 
 # introduction
+
 Placeholder text
+
+![](images/clipboard-2484908815.png)
+
 # directory structure
+
 # data and code description
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
 # usage
