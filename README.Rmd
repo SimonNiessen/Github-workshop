@@ -4,6 +4,8 @@ output: html_document
 ---
 
 # introduction
+Placeholder text
 # directory structure
 # data and code description
+
 # usage
