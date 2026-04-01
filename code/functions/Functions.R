@@ -1,2 +1,2 @@
-## Basics + functions
+## Basics and  functions
 
